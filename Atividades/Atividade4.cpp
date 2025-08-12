@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-//Oi cavalo
+//Oi cavalo 2
 int main() {
     int quantidadeNotas;
     cout << "Quantas notas o aluno possui? ";
