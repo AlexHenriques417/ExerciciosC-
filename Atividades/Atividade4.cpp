@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+//Oi
 int main() {
     int quantidadeNotas;
     cout << "Quantas notas o aluno possui? ";
