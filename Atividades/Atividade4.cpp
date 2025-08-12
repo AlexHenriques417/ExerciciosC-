@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-//Oi cavalo 2
+//Programa pra digitar as notas
 int main() {
     int quantidadeNotas;
     cout << "Quantas notas o aluno possui? ";
