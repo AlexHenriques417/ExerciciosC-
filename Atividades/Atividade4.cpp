@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-//Programa pra digitar as notas
+//Programa pra saber as médias das notas
 int main() {
     int quantidadeNotas;
     cout << "Quantas notas o aluno possui? ";
